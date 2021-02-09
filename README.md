@@ -1,0 +1,9 @@
+# eventapi
+EVENT MANAGEMENT
+
+
+
+
+START PROJECT:
+  NPM INSTALL
+  NPM START
